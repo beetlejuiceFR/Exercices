@@ -1,2 +1,2 @@
-ce repertoire contient les exercises pour les cours du site OpenClassroom.
+ce repertoire contient les exercices pour les cours du site OpenClassroom.
 
