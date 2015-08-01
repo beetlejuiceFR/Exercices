@@ -9,7 +9,7 @@ sleep(1) # give a second to the arduino for connect
 #sweety.attach()
 #sweety.posture("neutral")
 #sweety.mouthState("smile")
-sweety.mouth.setGoogleURI("http://thehackettfamily.org/Voice_api/api2.php?voice=Julie&txt=")
+sweety.mouth.setGoogleURI("http://thehackettfamily.org/Voice_api/api2.php?voice=claire&txt=")
 
 sweety.chatBot.startSession("ProgramAB", "default", "sweety")
 ######################################################################
